@@ -1,9 +1,7 @@
 import Header from './_components/Header'
-import Logo from './_components/Logo'
-import Navigation from './_components/Navigation'
 import './globals.css'
 
-import { Joefin_Sans, Josefin_Sans } from 'next/font/google'
+import { Josefin_Sans } from 'next/font/google'
 
 const josefin = Josefin_Sans({
   subsets: ['latin'],
